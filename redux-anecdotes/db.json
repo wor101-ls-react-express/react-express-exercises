@@ -1,0 +1,114 @@
+{
+  "anecdotes": [
+    {
+      "content": "If it hurts, do it more often",
+      "id": "47145",
+      "votes": 9
+    },
+    {
+      "content": "Adding manpower to a late software project makes it later!",
+      "id": "21149",
+      "votes": 11
+    },
+    {
+      "content": "The first 90 percent of the code accounts for the first 90 percent of the development time...The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+      "id": "69581",
+      "votes": 6
+    },
+    {
+      "content": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "id": "36975",
+      "votes": 3
+    },
+    {
+      "content": "Premature optimization is the root of all evil.",
+      "id": "25170",
+      "votes": 3
+    },
+    {
+      "content": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+      "id": "98312",
+      "votes": 0
+    },
+    {
+      "content": "A new anecdote for you",
+      "id": "Ns8-YCw",
+      "votes": 2
+    },
+    {
+      "content": "Chimicanga",
+      "id": "qMTjG9a",
+      "votes": 3
+    },
+    {
+      "content": "Hello there",
+      "votes": 0,
+      "id": "yKfQVgE"
+    },
+    {
+      "content": "Refactoring",
+      "id": "JTr-H00",
+      "votes": 1
+    },
+    {
+      "content": "Working now?",
+      "id": "NXOQcoY",
+      "votes": 4
+    },
+    {
+      "content": "Another test",
+      "id": "NaYBThW",
+      "votes": 13
+    },
+    {
+      "content": "updated content",
+      "id": "Yxyr_ob",
+      "votes": 12
+    },
+    {
+      "content": "updated content",
+      "id": "McKLSaM",
+      "votes": 12
+    },
+    {
+      "content": "Does creating still work",
+      "votes": 0,
+      "id": "7nbPQ57"
+    },
+    {
+      "content": "Want beer",
+      "votes": 0,
+      "id": "xfrEVTk"
+    },
+    {
+      "content": "Really want beer",
+      "id": "VRCyGo0",
+      "votes": 4
+    },
+    {
+      "content": "Saturday Morning",
+      "votes": 0,
+      "id": "XmNagPo"
+    },
+    {
+      "content": "Tricksy Spider",
+      "id": "MSPW5Hy",
+      "votes": 1
+    },
+    {
+      "content": "Anecdote Form with Connect",
+      "votes": 0,
+      "id": "lzOINbd"
+    },
+    {
+      "content": "dfdfdffd",
+      "votes": 0,
+      "id": "EYi84Oh"
+    },
+    {
+      "content": "asdfasdf",
+      "votes": 0,
+      "id": "VDAo0Pk"
+    }
+  ]
+}
